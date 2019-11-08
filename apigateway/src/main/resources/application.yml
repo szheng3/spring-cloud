@@ -1,4 +1,4 @@
-hystrix.command.fallbackcmd.execution.isolation.thread.timeoutInMilliseconds: 2000
+hystrix.command.fallbackcmd.execution.isolation.thread.timeoutInMilliseconds: 5000
 spring:
   application:
     name: api-gateway
